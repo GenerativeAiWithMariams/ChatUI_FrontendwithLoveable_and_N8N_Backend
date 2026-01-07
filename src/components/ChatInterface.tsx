@@ -7,7 +7,7 @@ interface Message {
   content: string;
 }
 
-const WEBHOOK_URL = "https://maryamfaiz.app.n8n.cloud/webhook-test/Mychatapp";
+const WEBHOOK_URL = "https://maryamfaiz.app.n8n.cloud/webhook/Mychatapp";
 
 const TypingIndicator = () => (
   <div className="flex items-center gap-1 px-4 py-3">
