@@ -1,4 +1,4 @@
-# Frontend with N8N Backen
+# Frontend with N8N Backen.
 
 ## Project info
 
